@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" width="200" height="240">
+  <circle cx="100" cy="100" r="82" fill="#5A6368" stroke="#000000" stroke-width="10"/>
+  <circle cx="100" cy="100" r="74" fill="#3A3F42"/>
+  
+  <polygon points="25,45 175,45 100,175" fill="#D2DAE0" stroke="#000000" stroke-width="9" stroke-linejoin="round"/>
+  
+  <polygon points="100,45 175,45 100,175" fill="#B3BC4" opacity="0.4"/>
+  
+  <path d="M 58,110 L 100,163 L 142,110 L 100,150 Z" fill="#C81919" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  
+  <polygon points="32,52 100,52 100,155 32,52" fill="#FFFFFF" opacity="0.3"/>
+
+  <text x="100" y="115" 
+        font-family="'Comic Sans MS', 'Arial Black', sans-serif" 
+        font-size="52" 
+        font-weight="900" 
+        fill="#FFFFFF" 
+        stroke="#000000" 
+        stroke-width="12" 
+        paint-order="stroke" 
+        text-anchor="middle">USE</text>
+        
+  <text x="100" y="115" 
+        font-family="'Comic Sans MS', 'Arial Black', sans-serif" 
+        font-size="52" 
+        font-weight="900" 
+        fill="#FFFFFF" 
+        text-anchor="middle">USE</text>
+
+  <text x="100" y="225" font-family="'Arial Black', Impact, sans-serif" font-size="24" font-weight="900" fill="#FFFFFF" stroke="#000000" stroke-width="6" paint-order="stroke" text-anchor="middle" letter-spacing="2">USE</text>
+</svg>

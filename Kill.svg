@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" width="200" height="240">
+  <circle cx="100" cy="100" r="82" fill="#4A0D0D" stroke="#000000" stroke-width="10"/>
+  <circle cx="100" cy="100" r="74" fill="#220505"/>
+  
+  <path d="M 32 65 A 70 70 0 0 1 140 35" fill="none" stroke="#FF5252" stroke-width="6" stroke-linecap="round"/>
+
+  <path d="M 45,115 C 30,130 35,160 60,170 C 75,176 85,162 100,175 C 115,162 125,176 140,170 C 165,160 170,130 155,115 C 150,110 168,135 160,150 C 152,165 135,155 125,165 C 115,175 110,182 100,182 C 90,182 85,175 75,165 C 65,155 48,165 40,150 C 32,135 50,110 45,115 Z" fill="#C81919" stroke="#000000" stroke-width="6" stroke-linejoin="round"/>
+  <circle cx="42" cy="135" r="7" fill="#C81919" stroke="#000000" stroke-width="4"/>
+  <circle cx="158" cy="135" r="7" fill="#C81919" stroke="#000000" stroke-width="4"/>
+
+  <path d="M 55,90 C 55,50 145,50 145,90 C 145,115 130,125 130,145 L 70,145 C 70,125 55,115 55,90 Z" fill="#D2DAE0" stroke="#000000" stroke-width="9" stroke-linejoin="round"/>
+  
+  <path d="M 100,52 C 125,52 140,70 140,90 C 140,112 128,122 128,142 L 100,142 Z" fill="#B3BCC4" opacity="0.5"/>
+
+  <path d="M 82,145 L 82,132 M 91,145 L 91,130 M 100,145 L 100,130 M 109,145 L 109,130 M 118,145 L 118,132" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  
+  <polygon points="100,110 93,122 107,122" fill="#4A5257" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+
+  <ellipse cx="78" cy="92" rx="14" ry="10" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="122" cy="92" rx="14" ry="10" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <circle cx="78" cy="92" r="6" fill="#FF1E1E"/>
+  <circle cx="122" cy="92" r="6" fill="#FF1E1E"/>
+  
+  <path d="M 62,80 L 92,90" fill="none" stroke="#000000" stroke-width="6" stroke-linecap="round"/>
+  <path d="M 138,80 L 108,90" fill="none" stroke="#000000" stroke-width="6" stroke-linecap="round"/>
+
+  <g font-family="'Comic Sans MS', 'Arial Black', sans-serif" font-size="54" font-weight="900" text-anchor="middle">
+    <text x="100" y="118" fill="#FF2222" stroke="#000000" stroke-width="14" paint-order="stroke" transform="rotate(-5, 100, 118)">KILL</text>
+    <text x="100" y="118" fill="#FF2222" transform="rotate(-5, 100, 118)">KILL</text>
+    <text x="100" y="118" fill="none" stroke="#800000" stroke-width="2" transform="rotate(-5, 100, 118)">KILL</text>
+  </g>
+
+  <text x="100" y="225" font-family="'Arial Black', Impact, sans-serif" font-size="24" font-weight="900" fill="#FFFFFF" stroke="#000000" stroke-width="6" paint-order="stroke" text-anchor="middle" letter-spacing="2">KILL</text>
+</svg>
